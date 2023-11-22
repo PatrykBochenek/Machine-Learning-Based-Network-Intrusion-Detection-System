@@ -6,7 +6,7 @@ Should you want to run the notebook files again, they should be run on Google Co
 
 Alterations to the directories may be neccessary.
 
-The notebooks should preferably be viewed i
+The notebooks should preferably be viewed in the following order:
 
 1.)data_processing.ipynb
 2.)classifier.ipynb
